@@ -1,4 +1,6 @@
-﻿namespace SlothEnterprise.ProductApplication.Products
+﻿using SlothEnterprise.Product;
+
+namespace SlothEnterprise.BusinessLoansService
 {
     public class BusinessLoans : IProduct
     {

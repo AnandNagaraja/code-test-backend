@@ -1,4 +1,5 @@
-﻿using SlothEnterprise.ProductApplication.Applications;
+﻿using SlothEnterprise.Product.Applications;
+
 
 namespace SlothEnterprise.ProductApplication
 {

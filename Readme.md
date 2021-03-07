@@ -4,7 +4,9 @@ At Sloth Enterprise, we offer our customers 3 different products.
 * Confidential Invoice Discount
 * Business Loans
 
-Each product has different application criteria and is hosted in its very own microservice. Sloth Enterprise provides a single service : `ProductApplicationService` as a nexus for these 3 microservices. The said service is hosted in this project. We are looking at adding more products and realised that the code isn't well written or extensible.
+Each product has different application criteria and is hosted in its very own microservice. 
+Sloth Enterprise provides a single service : `ProductApplicationService` as a nexus for these 3 microservices. 
+The said service is hosted in this project. We are looking at adding more products and realised that the code isn't well written or extensible.
 
 ---
 

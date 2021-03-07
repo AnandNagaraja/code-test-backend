@@ -1,4 +1,6 @@
-﻿namespace SlothEnterprise.ProductApplication.Products
+﻿using System;
+
+namespace SlothEnterprise.Product
 {
     public interface IProduct
     {

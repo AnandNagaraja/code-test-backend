@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ApplicationResult.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SlothEnterprise.External\SlothEnterprise.External.csproj" />
+    <ProjectReference Include="..\SlothEnterprise.Product\SlothEnterprise.Product.csproj" />
+  </ItemGroup>
+
+</Project>

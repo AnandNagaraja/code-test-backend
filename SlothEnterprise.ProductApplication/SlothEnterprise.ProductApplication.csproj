@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SlothEnterprise.External\SlothEnterprise.External.csproj" />
+    <ProjectReference Include="..\BusinessLoansService\SlothEnterprise.BusinessLoansService.csproj" />
+    <ProjectReference Include="..\ConfidentialInvoiceDiscountService\SlothEnterprise.ConfidentialInvoiceDiscountService.csproj" />
+    <ProjectReference Include="..\SelectInvoiceService\SlothEnterprise.SelectInvoiceService.csproj" />
   </ItemGroup>
 
 </Project>

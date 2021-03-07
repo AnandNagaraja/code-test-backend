@@ -1,4 +1,9 @@
-﻿namespace SlothEnterprise.ProductApplication.Products
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using SlothEnterprise.Product;
+
+namespace SlothEnterprise.SelectInvoiceService
 {
     public class SelectiveInvoiceDiscount : IProduct
     {
